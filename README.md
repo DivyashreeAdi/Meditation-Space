@@ -1,2 +1,2 @@
 # meditation-app
-Meditation website - will help help people to be calm and anxiety free
+Meditation website - will help people to be calm and anxiety free
